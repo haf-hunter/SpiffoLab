@@ -50,3 +50,4 @@ SpiffoLab is distributed as **Proprietary Freeware**, **not** Open Source:
 - **No Unauthorized Redistribution:** Re-uploading or mirroring the software or its installers on third-party sites or Workshop uploads without written permission is prohibited. Sharing links to this official repository is welcome.
 
 See [`LICENSE.txt`](LICENSE.txt) for the complete End User License Agreement (DE / EN).
+

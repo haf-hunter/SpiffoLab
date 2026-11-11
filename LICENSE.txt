@@ -85,3 +85,4 @@ erfolgt auf eigenes Risiko. Der Autor haftet nicht für Datenverlust,
 beschädigte Spielstände oder sonstige direkte oder indirekte Schäden,
 soweit gesetzlich zulässig.
 ========================================================================
+
