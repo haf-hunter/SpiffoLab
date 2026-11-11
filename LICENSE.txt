@@ -1,0 +1,87 @@
+========================================================================
+SPIFFOLAB - PROPRIETARY FREEWARE END USER LICENSE AGREEMENT (EN / DE)
+Copyright (c) 2026 Haf Hunter. All Rights Reserved.
+========================================================================
+
+[ENGLISH VERSION]
+------------------------------------------------------------------------
+1. PROPRIETARY FREEWARE & COPYRIGHT
+The software product "SpiffoLab" (including all bundled components,
+runtime libraries, companion modules "ZombieBuddy", "ZombieBuddyBridge",
+"TelemetrieClient", UI assets, and documentation) is protected by
+copyright laws and international treaties. SpiffoLab is licensed as
+free-of-charge proprietary software ("Proprietary Freeware"), NOT sold
+and NOT licensed as Open Source. All title, ownership rights, and
+intellectual property rights remain exclusively with Haf Hunter.
+
+2. GRANT OF LICENSE (PERMITTED USE)
+Haf Hunter grants you a non-exclusive, non-transferable, revocable,
+royalty-free license to install and use the Software in unmodified
+binary form on your personal computers for private, non-commercial
+purposes in connection with the game "Project Zomboid".
+
+3. STRICT RESTRICTIONS (PROHIBITED ACTIONS)
+Without prior written permission from the author, you are strictly
+prohibited from:
+  a) Modifying, adapting, translating, or creating derivative works
+     (forks) based upon the Software or any of its components;
+  b) Reverse engineering, decompiling, disassembling, or attempting to
+     derive the source code of the Software;
+  c) Removing, altering, or obscuring any copyright notices, branding,
+     logos ("SpiffoLab"), or authorship attributions ("Re-branding");
+  d) Hosting, mirroring, re-uploading, or redistributing the Software or
+     its installers on third-party websites, Steam Workshop pages, or
+     file-sharing networks. Sharing direct links to the official
+     distribution page (https://github.com/haf-hunter/SpiffoLab) is
+     expressly permitted;
+  e) Selling, renting, leasing, or commercially exploiting the Software.
+
+4. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO
+EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, LOSS OF
+SAVEGAMES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+
+========================================================================
+[DEUTSCHE VERSION]
+------------------------------------------------------------------------
+1. GEGENSTAND DER LIZENZ & URHEBERRECHT
+Die Software "SpiffoLab" (einschließlich aller zugehörigen Komponenten,
+Bibliotheken, Benutzeroberflächen, Grafiken, Dokumentationen und Skripte)
+ist urheberrechtlich geschützt. Sämtliche Eigentums-, Urheber- und
+Schutzrechte verbleiben ausschließlich beim Autor (Haf Hunter).
+SpiffoLab ist proprietäre Freeware und KEINE Open-Source-Software.
+
+2. LIZENZGEWÄHRUNG (ERLAUBTE NUTZUNG)
+Ihnen wird eine einfache, nicht-exklusive, nicht übertragbare und
+widerrufliche Lizenz gewährt, SpiffoLab kostenlos für den persönlichen,
+nicht-kommerziellen Gebrauch zur Diagnose, Mod-Verwaltung und
+Leistungsanalyse des Spiels "Project Zomboid" auf Ihren eigenen
+Endgeräten zu installieren und auszuführen.
+
+3. STRIKTE NUTZUNGSBESCHRÄNKUNGEN (VERBOTENE HANDLUNGEN)
+Ohne vorherige ausdrückliche schriftliche Genehmigung des Autors ist es
+Ihnen strengstens untersagt:
+  a) die Software ganz oder teilweise zu dekompilieren, zu
+     disassemblieren, Reverse Engineering zu betreiben oder auf andere
+     Weise zu versuchen, den Quellcode oder die zugrunde liegenden
+     Algorithmen abzuleiten;
+  b) die Software zu modifizieren, anzupassen, zu übersetzen oder
+     abgeleitete Werke (Derivate / Forks) auf Basis der Software zu
+     erstellen;
+  c) Urheberrechtsvermerke, Logos, Markenzeichen ("SpiffoLab") oder
+     andere Herstellerhinweise zu entfernen, zu verändern oder zu
+     überdecken (Re-Branding);
+  d) die Software oder Teile davon kommerziell zu nutzen, zu verkaufen,
+     zu vermieten, zu verleasen oder auf Drittplattformen ohne
+     Zustimmung neu hochzuladen (Re-Uploading). Das Teilen direkter
+     Links zur offiziellen Distributionsseite
+     (https://github.com/haf-hunter/SpiffoLab) ist ausdrücklich erlaubt.
+
+4. GEWÄHRLEISTUNGSAUSSCHLUSS & HAFTUNG
+Die Bereitstellung der Software erfolgt "WIE BESEHEN" (AS IS) ohne
+jegliche ausdrückliche oder stillschweigende Gewährleistung. Die Nutzung
+erfolgt auf eigenes Risiko. Der Autor haftet nicht für Datenverlust,
+beschädigte Spielstände oder sonstige direkte oder indirekte Schäden,
+soweit gesetzlich zulässig.
+========================================================================
