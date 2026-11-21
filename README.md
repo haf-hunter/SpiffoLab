@@ -56,8 +56,8 @@
 ---
 
 ## Changelog & Roadmap
-- **[Public Changelog](CHANGELOG.md):** Player-focused history of all major updates and fixes.
-- **[Public Roadmap](ROADMAP.md):** Upcoming features and milestones currently in planning or development.
+- **[Changelog](CHANGELOG.md):** Complete version history from `v1.0.2` to the latest release.
+- **[Roadmap](ROADMAP.md):** Upcoming features and milestones currently in planning or development.
 
 ---
 

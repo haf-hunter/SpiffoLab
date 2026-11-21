@@ -1,4 +1,4 @@
-# SpiffoLab CC — Public Roadmap
+# SpiffoLab CC — Roadmap
 
 Here is what we are working on next for **SpiffoLab CC** (Project Zomboid Build 41 & Build 42).  
 Have a feature request or bug report? Open an issue anytime in our [Issue Tracker](https://github.com/haf-hunter/SpiffoLab/issues).
