@@ -13,15 +13,15 @@
 ## Quick Download & First-Time Installation (Windows)
 
 1. **Download the Windows Installer:**  
-   [**Download SpiffoLab-Setup.exe**](https://github.com/haf-hunter/SpiffoLab/releases/download/v2.0.0/SpiffoLab-Setup.exe)
-2. **Run `SpiffoLab-Setup.exe` once** and follow the guided Setup Wizard (no admin rights required).
-3. **Automatic Update to the Latest Version:**  
-   When you launch SpiffoLab CC, it automatically checks for the latest release and updates itself in one click.  
+   [**Download SpiffoLab-Setup.exe**](https://github.com/haf-hunter/SpiffoLab/releases/download/v2.5.2/SpiffoLab-Setup.exe)
+2. **Run `SpiffoLab-Setup.exe` once** and follow the guided Setup Wizard (no admin rights and no extra runtimes required — everything is included).
+3. **Automatic Future Updates:**  
+   When you launch SpiffoLab CC, it automatically checks for new releases and updates itself in one click.  
    **Note:** You never need to download `.slupd` files manually — `.slupd` packages are signed, encrypted update files used automatically by SpiffoLab's built-in updater.
 
 ### Security & Verification
-- **Public VirusTotal Scan (`SpiffoLab-Setup.exe`):** [View VirusTotal Report](https://www.virustotal.com/gui/file/c2a634872ba7e11d8abc48e11f674b0a78641275f0d8bdaf5925f55bc9c069d7?nocache=1)
-- **SHA-256:** `c2a634872ba7e11d8abc48e11f674b0a78641275f0d8bdaf5925f55bc9c069d7`
+- **Public VirusTotal Scan (`SpiffoLab-Setup.exe`):** [View VirusTotal Report](https://www.virustotal.com/gui/file/2bbc4be8d7c8dc1f27738207eba27e11293b7ec954ac17347c8bf36b4db0ba2b?nocache=1)
+- **SHA-256:** `2bbc4be8d7c8dc1f27738207eba27e11293b7ec954ac17347c8bf36b4db0ba2b`
 - **Windows SmartScreen Note:** SpiffoLab is a free indie tool without a corporate certificate. If SmartScreen shows *"Unknown publisher"*, click **More info -> Run anyway**.
 
 ---
@@ -49,7 +49,7 @@
 
 ## System Requirements
 - **OS:** Windows 10 or Windows 11 (64-bit)
-- **Runtime:** [Microsoft .NET 8.0 Desktop Runtime (x64)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) (checked automatically during setup)
+- **Runtime:** Self-contained — no extra runtimes required
 - **Game:** Project Zomboid (Build 41 & Build 42)
 - **Languages:** English, German, Spanish, and Portuguese
 
