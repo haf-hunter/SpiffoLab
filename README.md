@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="media/og-banner.png" alt="SpiffoLab CC — Your Control Center for Project Zomboid" width="100%" />
+</p>
+
 # SpiffoLab CC — Your Control Center for Project Zomboid (B41 & B42)
 
 **Official Distribution, Release & Issue Tracker Repository**  
-**Website:** [spiffolab.com](https://spiffolab.com)  
-**Author:** Haf Hunter  
-**License:** Proprietary Freeware (All Rights Reserved — see [`LICENSE.txt`](LICENSE.txt))
+**Website:** [spiffolab.com](https://spiffolab.com) | **Steam Workshop:** [SpiffoLab CC](https://steamcommunity.com/sharedfiles/filedetails/?id=3842584609)  
+**Author:** Haf Hunter | **License:** Proprietary Freeware (All Rights Reserved — see [`LICENSE.txt`](LICENSE.txt))
 
 ---
 
@@ -20,6 +23,18 @@
 - **Public VirusTotal Scan (`SpiffoLab-Setup.exe`):** [View VirusTotal Report](https://www.virustotal.com/gui/file/c2a634872ba7e11d8abc48e11f674b0a78641275f0d8bdaf5925f55bc9c069d7?nocache=1)
 - **SHA-256:** `c2a634872ba7e11d8abc48e11f674b0a78641275f0d8bdaf5925f55bc9c069d7`
 - **Windows SmartScreen Note:** SpiffoLab is a free indie tool without a corporate certificate. If SmartScreen shows *"Unknown publisher"*, click **More info -> Run anyway**.
+
+---
+
+## Screenshots
+
+| Mod Manager, Profiles & Workshop Discovery | 1-Click Performance Tuning & Live GPU / VRAM |
+| :---: | :---: |
+| ![Mod Manager & Profiles](media/mod_manager_overview.png) | ![1-Click Tuning & Live Metrics](media/tuning_complete.png) |
+
+| Real-Time Mod Performance Dashboard | 24 Game Builds (B19–B42) & In-App Downloader |
+| :---: | :---: |
+| ![Mod Performance Dashboard](media/dashboard.png) | ![24 Game Builds & Downloader](media/builds_download.png) |
 
 ---
 
