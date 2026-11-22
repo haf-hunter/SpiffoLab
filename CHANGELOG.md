@@ -5,6 +5,10 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.5.5 (2026-11-22)
+- **Critical Build 42 Main Menu Fix (Companion Mod):** Fixed a Lua Mod Options error in `SpiffoLab_Onboarding.lua` that could block the Project Zomboid Build 42 main menu from loading on fresh installations. Now uses native `PZAPI.ModOptions:addButton` with full `pcall` safety guards.
+- **Build 41 Companion Mod Polish:** Synced the improved download prompt (`openURl` browser launch + centered buttons) and added missing DE/EN/ES/PT-BR translations to all Build 41 `UI_*.txt` files.
+
 ## v2.5.4 (2026-11-22)
 - **Instant External Optimizer Memory Settings on First Launch:** Switching profiles alongside external performance tools (such as `pzopt`) now preserves custom `-Xms`, `-Xmx`, and `-XX:+AlwaysPreTouch` settings right away — no second game launch required.
 - **Cleaner Launch Configs:** Prevents stale profile memory flags from overriding an active external optimizer, keeps external settings intact when selecting SpiffoLab's `Default (Off)` tuning preset, and removes duplicate JVM unlock flags automatically.

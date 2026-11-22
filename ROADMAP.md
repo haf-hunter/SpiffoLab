@@ -21,6 +21,7 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 
 ## Recently Completed
 
+- **v2.5.5:** Critical Build 42 main-menu Mod Options fix in the Companion Mod (`addButton` + `pcall` guards) and complete Build 41 translation sync.
 - **v2.5.4:** Instant external optimizer (`pzopt`) memory & PreTouch preservation on the first launch after switching profiles, plus automatic JVM flag cleanup.
 - **v2.5.3:** Java 25 external AOT optimizer conflict guard, in-game setup prompt browser & translation fix, and refreshed `B41 & B42` Workshop/mod poster artwork.
 - **v2.5.2:** Self-contained Windows installer (no extra runtime needed), per-profile external optimizer support, and improved Zombie AI telemetry.
