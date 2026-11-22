@@ -5,7 +5,7 @@
 # SpiffoLab CC — Your Control Center for Project Zomboid (B41 & B42)
 
 **Official Distribution, Release & Issue Tracker Repository**  
-**Website:** [spiffolab.com](https://spiffolab.com) | **Steam Workshop:** [SpiffoLab CC](https://steamcommunity.com/sharedfiles/filedetails/?id=3842584609) | **[Changelog](CHANGELOG.md)** | **[Roadmap](ROADMAP.md)**  
+**Website:** [spiffolab.com](https://spiffolab.com) | **Steam Workshop:** [SpiffoLab CC](https://steamcommunity.com/sharedfiles/filedetails/?id=3843642618) | **[Changelog](CHANGELOG.md)** | **[Roadmap](ROADMAP.md)**  
 **Author:** Haf Hunter | **License:** Proprietary Freeware (All Rights Reserved — see [`LICENSE.txt`](LICENSE.txt))
 
 ---
