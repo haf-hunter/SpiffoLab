@@ -5,6 +5,10 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.5.4 (2026-11-22)
+- **Instant External Optimizer Memory Settings on First Launch:** Switching profiles alongside external performance tools (such as `pzopt`) now preserves custom `-Xms`, `-Xmx`, and `-XX:+AlwaysPreTouch` settings right away — no second game launch required.
+- **Cleaner Launch Configs:** Prevents stale profile memory flags from overriding an active external optimizer, keeps external settings intact when selecting SpiffoLab's `Default (Off)` tuning preset, and removes duplicate JVM unlock flags automatically.
+
 ## v2.5.3 (2026-11-22)
 - **External AOT Optimizer Conflict Guard:** Prevents Java 25 startup aborts when switching profiles or launching alongside external AOT optimizers (such as `pzopt`), and automatically heals affected launch configs.
 - **In-Game Setup Prompt & Mod Poster Update:** Fixed the in-game "Open Download" button not opening the browser, completed all DE/EN/ES/PT-BR prompt translations, and refreshed the mod poster with a clear `B41 & B42` badge.
