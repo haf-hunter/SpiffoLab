@@ -5,6 +5,10 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.5.3 (2026-11-22)
+- **External AOT Optimizer Conflict Guard:** Prevents Java 25 startup aborts when switching profiles or launching alongside external AOT optimizers (such as `pzopt`), and automatically heals affected launch configs.
+- **In-Game Setup Prompt & Mod Poster Update:** Fixed the in-game "Open Download" button not opening the browser, completed all DE/EN/ES/PT-BR prompt translations, and refreshed the mod poster with a clear `B41 & B42` badge.
+
 ## v2.5.2 (2026-11-21)
 - **Self-Contained Windows Installer:** `SpiffoLab-Setup.exe` now bundles everything needed out of the box — no external `.NET` runtime download required.
 - **Per-Profile External Optimizer Preservation:** Third-party performance setups (such as `pzopt` / Java AOT caches) are now safely preserved per profile when switching profiles or game builds.
