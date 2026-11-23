@@ -11,8 +11,9 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 - Ready-to-play profile presets for classic Project Zomboid builds going all the way back to 2013 (Build 19 through Build 40).
 - Automatic launch support for older builds that predate modern launcher configs, plus guided hints for matching legacy Java versions.
 
-### 2. Smarter Theme Engine & Visual Polish
-- Unified color tokens across all views, live charts, help pages, and exported diagnostic reports so new themes work seamlessly everywhere.
+### 2. Custom Theme Editor & Visual Personalization
+- Customize individual color areas to match your style — including background, panels/cards, interactive buttons & accents, and text colors — via curated palettes or custom hex colors with built-in contrast checks and 1-click reset.
+- Choose your preferred font family and UI text size with live preview across all views, live charts, help pages, and exported diagnostic reports.
 
 ### 3. Enhanced In-Game Crash Protection & Reporting
 - Deeper integration with ZombieBuddy crash protection so prevented in-game crashes are surfaced clearly in the Live Log and Diagnostic Report.
