@@ -7,29 +7,27 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 
 ## Planned & In Progress
 
-### 1. One-Click Presets for Historical Game Builds (B19 – B40)
-- Ready-to-play profile presets for classic Project Zomboid builds going all the way back to 2013 (Build 19 through Build 40).
-- Automatic launch support for older builds that predate modern launcher configs, plus guided hints for matching legacy Java versions.
-
-### 2. Custom Theme Editor & Visual Personalization
+### 1. Custom Theme Editor & Visual Personalization
 - Customize individual color areas to match your style — including background, panels/cards, interactive buttons & accents, and text colors — via curated palettes or custom hex colors with built-in contrast checks and 1-click reset.
 - Choose your preferred font family and UI text size with live preview across all views, live charts, help pages, and exported diagnostic reports.
 - Matching window title bars and borders across all app windows and dialogs so light, dark, and custom themes look seamless everywhere.
 
-### 3. Enhanced In-Game Crash Protection & Reporting
+### 2. Enhanced In-Game Crash Protection & Reporting
 - Deeper integration with ZombieBuddy crash protection so prevented in-game crashes are surfaced clearly in the Live Log and Diagnostic Report.
 
-### 4. Dynamic "For You" Discovery & Full Workshop Search
+### 3. Dynamic "For You" Discovery & Full Workshop Search
 - Expand the "For You" mod showcase from a fixed 6-mod grid to a responsive layout that fills your available screen space cleanly.
 - Upgrade free-text mod search to query the entire Steam Workshop live — not just your locally downloaded mod pool.
 
-### 5. Dedicated Start Page & Live Build News
+### 4. Dedicated Start Page & Live Build News
 - A dedicated Start tab right next to the Launcher for welcoming news, quick actions, and Project Zomboid build highlights.
 - Optional automatic live updates for future Project Zomboid releases so brand-new builds automatically pull fresh highlights and patch notes links.
 
 ---
 
 ## Recently Completed
+
+- **v2.6.0:** Historical Builds (B19 – B40) launch presets & Java 8 support, redesigned inline Build Manager across 4 era groups with PZ Wiki links, 2-column Profile Wizard with smart mod compatibility picker, profile bar refresh fix, and streamlined Companion Mod setup prompt.
 
 - **v2.5.5:** Critical Build 42 main-menu Mod Options fix in the Companion Mod (`addButton` + `pcall` guards) and complete Build 41 translation sync.
 - **v2.5.4:** Instant external optimizer (`pzopt`) memory & PreTouch preservation on the first launch after switching profiles, plus automatic JVM flag cleanup.

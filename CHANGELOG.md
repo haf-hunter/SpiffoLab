@@ -5,6 +5,12 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.6.0 (2026-11-23)
+- **Play Classic Builds Back to 2013 (B19 – B40):** Full support for historical Project Zomboid builds with automatic legacy Java 8 detection, smart launch presets (including direct offline/NoSteam support for B19), and guided hints when an external Java 8 runtime is needed.
+- **Redesigned Build Manager Inside the Launcher:** Now opens in full view directly inside the Launcher with 4 clear era groups (`Build 42`, `Build 41`, `Build 34–40`, `Build 19–29`), curated release highlights for all 24 builds, and one-click **Patch Notes (PZ Wiki)** links.
+- **Smart Profile Wizard with Integrated Mod Compatibility Picker:** Create isolated setups in a spacious two-column view with automatic mod compatibility checks for your chosen build — pick **No Mods**, **Take All Compatible**, or **Choose Manually** with instant search and status filters.
+- **Profile Bar Sync Fix & Companion Mod Polish:** Fixed the Launcher profile dropdown resetting after refreshing mods, and streamlined the in-game Companion Mod prompt to copy the download link cleanly to your clipboard with clear setup instructions in EN / DE / ES / PT-BR.
+
 ## v2.5.5 (2026-11-22)
 - **Critical Build 42 Main Menu Fix (Companion Mod):** Fixed a Lua Mod Options error in `SpiffoLab_Onboarding.lua` that could block the Project Zomboid Build 42 main menu from loading on fresh installations. Now uses native `PZAPI.ModOptions:addButton` with full `pcall` safety guards.
 - **Build 41 Companion Mod Polish:** Synced the improved download prompt (`openURl` browser launch + centered buttons) and added missing DE/EN/ES/PT-BR translations to all Build 41 `UI_*.txt` files.
