@@ -23,6 +23,9 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 - A dedicated Start tab right next to the Launcher for welcoming news, quick actions, and Project Zomboid build highlights.
 - Optional automatic live updates for future Project Zomboid releases so brand-new builds automatically pull fresh highlights and patch notes links.
 
+### 5. All-New "Help Center" & Step-by-Step Tutorials
+- Complete overhaul of the built-in documentation into a spacious **Help Center** with quick feature summaries, expandable in-depth details, and practical step-by-step tutorials (profile isolation, safe game-build switching back to B19, lag diagnostics, and performance tuning) in all 4 languages.
+
 ---
 
 ## Recently Completed
