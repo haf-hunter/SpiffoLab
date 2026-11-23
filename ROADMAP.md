@@ -18,6 +18,10 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 ### 3. Enhanced In-Game Crash Protection & Reporting
 - Deeper integration with ZombieBuddy crash protection so prevented in-game crashes are surfaced clearly in the Live Log and Diagnostic Report.
 
+### 4. Dynamic "For You" Discovery & Full Workshop Search
+- Expand the "For You" mod showcase from a fixed 6-mod grid to a responsive layout that fills your available screen space cleanly.
+- Upgrade free-text mod search to query the entire Steam Workshop live — not just your locally downloaded mod pool.
+
 ---
 
 ## Recently Completed
