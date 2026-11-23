@@ -5,6 +5,10 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.6.1 (2026-11-23)
+- **Full Tooltips Across Build Manager & Profile Wizard:** Added helpful tooltips to every button, setting, search box, filter, and mod setup option across all 4 languages — including dynamic mod compatibility tooltips explaining why each mod matches (or conflicts with) your target build.
+- **Instant Live Language Switching:** Switching between German, English, Spanish, and Portuguese now updates the entire open Build Manager, Profile Wizard, and status bar live right away without needing to reopen panels.
+
 ## v2.6.0 (2026-11-23)
 - **Play Classic Builds Back to 2013 (B19 – B40):** Full support for historical Project Zomboid builds with automatic legacy Java 8 detection, smart launch presets (including direct offline/NoSteam support for B19), and guided hints when an external Java 8 runtime is needed.
 - **Redesigned Build Manager Inside the Launcher:** Now opens in full view directly inside the Launcher with 4 clear era groups (`Build 42`, `Build 41`, `Build 34–40`, `Build 19–29`), curated release highlights for all 24 builds, and one-click **Patch Notes (PZ Wiki)** links.
