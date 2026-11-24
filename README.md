@@ -8,7 +8,8 @@
 SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long-term saves from surprise Steam updates, jump between Solo, Testing, and Multiplayer profiles in one click, and pinpoint lagging or crashing mods instead of guessing.
 
 **100% Free Windows Control Center** | **Self-Contained (No Extra Runtimes)** | **No Admin Rights**  
-[**Try the Interactive Demo (spiffolab.com)**](https://spiffolab.com) · [**Download SpiffoLab-Setup.exe**](https://github.com/haf-hunter/SpiffoLab/releases/download/v2.5.2/SpiffoLab-Setup.exe) · [**Steam Workshop (B41 & B42)**](https://steamcommunity.com/sharedfiles/filedetails/?id=3843642618) · [**VirusTotal Verified**](https://www.virustotal.com/gui/file/2bbc4be8d7c8dc1f27738207eba27e11293b7ec954ac17347c8bf36b4db0ba2b?nocache=1) · [**Changelog**](CHANGELOG.md) · [**Roadmap**](ROADMAP.md)
+[![Latest In-App Update](https://img.shields.io/github/v/release/haf-hunter/SpiffoLab?label=Latest%20In-App%20Update&color=7C3AED&style=flat-square)](https://github.com/haf-hunter/SpiffoLab/releases/latest) [![Universal Base Installer](https://img.shields.io/badge/Universal%20Base%20Installer-v2.5.2%20(70.4%20MB)-10B981?style=flat-square)](https://github.com/haf-hunter/SpiffoLab/releases/download/v2.5.2/SpiffoLab-Setup.exe)  
+[**Try the Interactive Demo (spiffolab.com)**](https://spiffolab.com) · [**Download Universal Installer (`SpiffoLab-Setup.exe`)**](https://github.com/haf-hunter/SpiffoLab/releases/download/v2.5.2/SpiffoLab-Setup.exe) · [**Steam Workshop (B41 & B42)**](https://steamcommunity.com/sharedfiles/filedetails/?id=3843642618) · [**VirusTotal Verified**](https://www.virustotal.com/gui/file/2bbc4be8d7c8dc1f27738207eba27e11293b7ec954ac17347c8bf36b4db0ba2b?nocache=1) · [**Changelog**](CHANGELOG.md) · [**Roadmap**](ROADMAP.md)
 
 ---
 
@@ -50,17 +51,21 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 - **Live Hardware Monitor (FPS, GPU & VRAM):** Track real-time FPS (Avg, 1% & 0.1% Low), CPU, real graphics card load, dedicated VRAM, memory, and Zombie AI — with clean automatic reset whenever the game closes.
 - **Mod Performance Dashboard & Live Log:** Rank every active mod by frame cost, worst lag spike, and errors, and separate the true crash culprit from innocent follow-up errors in real time.
 - **30-Second Benchmark & Shareable Report:** Run a guided 30-second in-game benchmark, see whether drops come from mods, Zombie AI, chunk loading, or collisions, and export clean reports for Discord or bug tracking.
+- **Built-In Help Center & Interactive Tutorials:** Open contextual guides inline or in a pop-out window with live search, quick-start cards, 10 feature chapters, and 6 step-by-step tutorials with one-click app actions across 4 languages.
 
 ---
 
 ## Quick Download & First-Time Setup (Windows)
 
-1. **Download the Self-Contained Windows Installer:**  
-   [**Download SpiffoLab-Setup.exe**](https://github.com/haf-hunter/SpiffoLab/releases/download/v2.5.2/SpiffoLab-Setup.exe)  
-   Run it once and follow the guided Setup Wizard — **no admin rights and no extra runtimes required** (everything is bundled).
-2. **Automatic Verified In-App Updates:**  
-   When you launch SpiffoLab CC, it automatically checks for new releases and installs signed, encrypted `.slupd` updates in one click.  
-   **Note:** You never need to download `.slupd` files manually — SpiffoLab's built-in updater handles them automatically.
+> **Two quick steps to the newest version (`v2.5.2` Base Setup + Automatic In-App Update):**  
+> `SpiffoLab-Setup.exe` is the permanent **Universal Base Installer** (`v2.5.2`). It is intentionally never rebuilt so Windows SmartScreen stays trusted. As soon as you open SpiffoLab CC for the first time, simply click **Install Update** in the built-in updater to jump straight to the newest release shown in the live badge above.
+
+1. **Install the Permanent Universal Base Installer (`v2.5.2`):**  
+   [**Download Universal Base Installer (`SpiffoLab-Setup.exe`)**](https://github.com/haf-hunter/SpiffoLab/releases/download/v2.5.2/SpiffoLab-Setup.exe)  
+   Run it once — **no admin rights and no extra runtimes required** (everything is bundled).
+2. **Accept the 1-Click In-App Update on First Launch:**  
+   When SpiffoLab CC starts, it automatically detects the newest release (see the **Latest In-App Update** badge at the top) and installs the signed, encrypted `.slupd` update in one click — so you immediately run the latest version instead of the older base installer build.  
+   **Note:** You never need to download `.slupd` files manually — SpiffoLab's built-in updater handles everything automatically.
 
 ### Security & Verification
 - **Public VirusTotal Scan (`SpiffoLab-Setup.exe`):** [View VirusTotal Report](https://www.virustotal.com/gui/file/2bbc4be8d7c8dc1f27738207eba27e11293b7ec954ac17347c8bf36b4db0ba2b?nocache=1)
