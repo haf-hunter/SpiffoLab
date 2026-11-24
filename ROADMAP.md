@@ -24,12 +24,11 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 - A rotating **"Did You Know?"** tips card with quick everyday tricks (mod freeze, retro builds, offline launch, benchmarks) linking straight into matching Help Center tutorials.
 - Optional automatic live updates for future Project Zomboid releases so brand-new builds automatically pull fresh highlights and patch notes links.
 
-### 5. All-New "Help Center" & Step-by-Step Tutorials
-- Complete overhaul of the built-in documentation into a spacious **Help Center** with quick feature summaries, expandable in-depth details, and practical step-by-step tutorials (profile isolation, safe game-build switching back to B19, lag diagnostics, and performance tuning) in all 4 languages.
-
 ---
 
 ## Recently Completed
+
+- **v2.7.0:** All-new context-sensitive **Help Center** directly inside SpiffoLab (with optional pop-out window), live full-text search, quick-start cards, 10 feature guides including First-Time Setup & Settings, 6 interactive step-by-step tutorials with one-click app actions, zoomable screenshots, and live theme & 4-language sync.
 
 - **v2.6.0 – v2.6.1:** Historical Builds (B19 – B40) launch presets & Java 8 support, redesigned inline Build Manager across 4 era groups with PZ Wiki links, 2-column Profile Wizard with smart mod compatibility picker & explanatory tooltips, instant live language switching, profile bar refresh fix, and streamlined Companion Mod setup prompt.
 

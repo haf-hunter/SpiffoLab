@@ -5,6 +5,12 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.7.0 (2026-11-24)
+- **All-New Built-In Help Center (Inline & Pop-Out):** Opens directly inside SpiffoLab with a clean back button or in its own resizable window — automatically starting in the topic matching your current view.
+- **Instant Search, Quick-Start Cards & 10 Feature Guides:** Search all guides and FAQs in real time, jump straight in via clickable topic tags or problem-oriented quick-start cards, and browse 10 complete chapters including **First-Time Setup** and **Settings** with zoomable high-DPI screenshots.
+- **6 Interactive Step-by-Step Tutorials:** Follow practical walkthroughs for safe profile isolation, switching builds back to 2013 B19, locking mods, diagnosing FPS drops, and performance tuning — complete with direct one-click buttons to launch each action right inside SpiffoLab.
+- **Seamless Theme & Live Language Sync:** Automatically adapts to all 4 built-in color themes (`Dark Purple`, `Light Blue`, `Rainbow Dark`, `Rainbow Light`) and switches languages live across English, German, Spanish, and Portuguese.
+
 ## v2.6.1 (2026-11-23)
 - **Full Tooltips Across Build Manager & Profile Wizard:** Added helpful tooltips to every button, setting, search box, filter, and mod setup option across all 4 languages — including dynamic mod compatibility tooltips explaining why each mod matches (or conflicts with) your target build.
 - **Instant Live Language Switching:** Switching between German, English, Spanish, and Portuguese now updates the entire open Build Manager, Profile Wizard, and status bar live right away without needing to reopen panels.
