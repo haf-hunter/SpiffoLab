@@ -21,6 +21,7 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 
 ### 4. Dedicated Start Page & Live Build News
 - A dedicated Start tab right next to the Launcher for welcoming news, quick actions, and Project Zomboid build highlights.
+- A rotating **"Did You Know?"** tips card with quick everyday tricks (mod freeze, retro builds, offline launch, benchmarks) linking straight into matching Help Center tutorials.
 - Optional automatic live updates for future Project Zomboid releases so brand-new builds automatically pull fresh highlights and patch notes links.
 
 ### 5. All-New "Help Center" & Step-by-Step Tutorials
