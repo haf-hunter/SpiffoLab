@@ -5,6 +5,10 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.7.1 (2026-11-24)
+- **Clean Help Center Display Across All Tabs:** Fixed a visual overlap where opening the built-in Help Center from `LIVE LOG`, `DASHBOARD`, or `REPORT` could let the background view bleed through around the edges.
+- **Cleaner In-App Update Notes:** The built-in update prompt now formats release highlights cleanly with readable bullet points instead of showing raw Markdown symbols.
+
 ## v2.7.0 (2026-11-24)
 - **All-New Built-In Help Center (Inline & Pop-Out):** Opens directly inside SpiffoLab with a clean back button or in its own resizable window — automatically starting in the topic matching your current view.
 - **Instant Search, Quick-Start Cards & 10 Feature Guides:** Search all guides and FAQs in real time, jump straight in via clickable topic tags or problem-oriented quick-start cards, and browse 10 complete chapters including **First-Time Setup** and **Settings** with zoomable high-DPI screenshots.
