@@ -28,6 +28,8 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 
 ## Recently Completed
 
+- **v2.8.0:** Inline Settings integrated directly into the main window, built-in **App Update Catalog** (`v2.5.2+`) with safe version rollback, and **App Update Lock** (keeps update alerts visible while freezing your installed app version) across all 4 languages.
+
 - **v2.7.0 – v2.7.1:** All-new context-sensitive **Help Center** directly inside SpiffoLab (clean display across every tab plus optional pop-out window), live full-text search, quick-start cards, 10 feature guides including First-Time Setup & Settings, 6 interactive step-by-step tutorials with one-click app actions, zoomable screenshots, live theme & 4-language sync, and readable formatted In-App Update notes.
 
 - **v2.6.0 – v2.6.1:** Historical Builds (B19 – B40) launch presets & Java 8 support, redesigned inline Build Manager across 4 era groups with PZ Wiki links, 2-column Profile Wizard with smart mod compatibility picker & explanatory tooltips, instant live language switching, profile bar refresh fix, and streamlined Companion Mod setup prompt.

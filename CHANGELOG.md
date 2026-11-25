@@ -5,6 +5,12 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.8.0 (2026-11-25)
+- **Full Inline Settings Inside the Main Window:** All Settings tabs now open cleanly right inside SpiffoLab with a Back button (no separate popup window needed), keeping the interface seamless across every tab and theme.
+- **Built-In App Update Catalog (`v2.5.2+`):** Browse available SpiffoLab releases directly inside the new **Updates** tab with readable release notes, version status badges, and one-click install or safe rollback to earlier versions (while preserving your latest Companion Mod files).
+- **App Update Lock (Freeze Your App Version):** Lock your current SpiffoLab version right alongside your frozen game builds and mods. Startup update alerts still notify you when a new release is out, while preventing any accidental installation until you unlock it in the Update Catalog.
+- **Updated Help Center & 4-Language Support:** Full localization across English, German, Spanish, and Portuguese, plus updated Settings documentation directly reachable via `?`.
+
 ## v2.7.1 (2026-11-24)
 - **Clean Help Center Display Across All Tabs:** Fixed a visual overlap where opening the built-in Help Center from `LIVE LOG`, `DASHBOARD`, or `REPORT` could let the background view bleed through around the edges.
 - **Cleaner In-App Update Notes:** The built-in update prompt now formats release highlights cleanly with readable bullet points instead of showing raw Markdown symbols.

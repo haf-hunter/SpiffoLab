@@ -52,6 +52,7 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 - **Mod Performance Dashboard & Live Log:** Rank every active mod by frame cost, worst lag spike, and errors, and separate the true crash culprit from innocent follow-up errors in real time.
 - **30-Second Benchmark & Shareable Report:** Run a guided 30-second in-game benchmark, see whether drops come from mods, Zombie AI, chunk loading, or collisions, and export clean reports for Discord or bug tracking.
 - **Built-In Help Center & Interactive Tutorials:** Open contextual guides inline or in a pop-out window with live search, quick-start cards, 10 feature chapters, and 6 step-by-step tutorials with one-click app actions across 4 languages.
+- **Inline Settings, App Update Catalog & Update Lock:** Configure themes, languages, and zoom directly inside the main window, browse or roll back signed SpiffoLab releases, and optionally freeze your app version just like your mods and game builds.
 
 ---
 
