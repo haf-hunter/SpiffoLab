@@ -19,14 +19,11 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 - Expand the "For You" mod showcase from a fixed 6-mod grid to a responsive layout that fills your available screen space cleanly.
 - Upgrade free-text mod search to query the entire Steam Workshop live — not just your locally downloaded mod pool.
 
-### 4. Dedicated Start Page & Live Build News
-- A dedicated Start tab right next to the Launcher for welcoming news, quick actions, and Project Zomboid build highlights.
-- A rotating **"Did You Know?"** tips card with quick everyday tricks (mod freeze, retro builds, offline launch, benchmarks) linking straight into matching Help Center tutorials.
-- Optional automatic live updates for future Project Zomboid releases so brand-new builds automatically pull fresh highlights and patch notes links.
-
 ---
 
 ## Recently Completed
+
+- **v2.9.0:** All-new **`START` Tab** command center left of `LAUNCHER` with grunge-smoke hero banner, **Continue Last Run** across isolated profiles with 50/50 30s benchmark hardfacts linked to `REPORT` and direct total mod-updates jump into Mod Manager, 8 Quick Actions, 12 curated tips with screenshots, anonymous live Project Zomboid Steam News & Wiki patch notes fetcher, configurable default startup tab & live news toggle, plus refreshed Help Center guides and screenshots across all 4 languages.
 
 - **v2.8.0 – v2.8.1:** Inline Settings integrated directly into the main window, built-in **App Update Catalog** (`v2.5.2+`) with safe version rollback, and **App Update Lock** (keeps update alerts visible while freezing your installed app version) across all 4 languages, plus the interactive Help Center **Topic & Keyword Cloud** (25% live overview map with full-screen explorer, color-coded nodes, and connected-topic drawer).
 

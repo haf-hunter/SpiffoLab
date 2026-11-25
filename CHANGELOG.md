@@ -5,6 +5,12 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.9.0 (2026-11-25)
+- **New `START` Tab Command Center:** Dedicated launchpad left of `LAUNCHER` featuring a compact grunge-smoke hero banner (`Dark` & `Light` theme variants with theme-bound localized subtitles), configurable as your default startup tab in **Settings -> General**.
+- **`Continue Last Run` with 30s Benchmark Hardfacts & Mod Updates Link:** Automatically detects your most recent save across both your default Zomboid folder and isolated `-cachedir` profiles in a clean 50/50 split — large save thumbnail, profile/mode/version pills, total available mod updates link (opens Mod Manager filtered to `Updates`), automatic profile switching on launch, and persisted 30s benchmark metrics (`Avg FPS`, `1% / 0.1% Low`, `Logic Time`, `CPU / GPU`, `Zombie AI`, `Heap RAM`) linking straight to the `REPORT` tab.
+- **8 Quick Actions, 12 Rotating Tips & Live PZ News:** Balanced 2x2 overview with 8 instant shortcuts (including **Help Center & Cloud**), 12 rotating tips with clickable screenshots jumping into matching guides, and an anonymous Steam News / PZ Wiki fetcher (`AppID 108600`, 6h cache + offline fallback, toggleable in **Settings -> General**).
+- **Updated Help Center & Screenshots:** Refreshed `START` and `Settings` Help Center chapters with new high-DPI screenshots across all 4 languages (`EN`, `DE`, `ES`, `PT`).
+
 ## v2.8.1 (2026-11-25)
 - **Interactive Help Center Topic & Keyword Cloud:** Replaced the static keyword bar with a live interactive knowledge map right on the Help Center overview (25% live preview card with one-click **Maximize** into a full-screen explorer).
 - **Visual Connections Across Guides & Tutorials:** Color-coded nodes for **Keywords**, **Guides**, and **Tutorials** highlight connected topics on hover with floating summaries, smooth zoom/pan/drag, and a slide-in Connected Topics drawer when clicking any keyword — adapting live across all 4 color themes and 4 languages.

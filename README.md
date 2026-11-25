@@ -26,6 +26,10 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 
 ## Screenshots
 
+| Control Center (`START` Tab) & 30s Benchmark | Modular Help Center & Interactive Topic Cloud |
+| :---: | :---: |
+| ![Control Center START Tab](media/start_center.png) | ![Help Center & Topic Cloud](media/help_center.png) |
+
 | Mod Manager, Update Locks & Workshop Discovery | 24 Game Builds (B19–42.22.2) & In-App Downloader |
 | :---: | :---: |
 | ![Mod Manager & Update Locks](media/mod_manager_overview.png) | ![24 Game Builds & Downloader](media/builds_download.png) |
@@ -34,13 +38,18 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 | :---: | :---: |
 | ![1-Click Tuning & Live Metrics](media/tuning_complete.png) | ![Mod Performance Dashboard](media/dashboard.png) |
 
+| Inline Settings, Themes & Update Catalog |
+| :---: |
+| ![Inline Settings & App Updates](media/settings_new.png) |
+
 *Want to explore every feature before installing? Try the live interactive preview directly in your browser at [spiffolab.com](https://spiffolab.com).*
 
 ---
 
 ## Everything in One Place
 
-### 1. Protect Your Saves, Manage Mods & Play Any Build
+### 1. Start Instantly, Protect Your Saves, Manage Mods & Play Any Build
+- **`START` Tab Command Center:** Launch straight into your most recent save with thumbnail preview, automatic profile switching, total available mod-updates link, side-by-side 30s benchmark hardfacts (`Avg FPS`, `1% / 0.1% Low`, `Logic Time`, `CPU / GPU`, `Zombie AI`, `Heap RAM`), 8 Quick Actions, 12 rotating tips, and live Project Zomboid Steam news & Wiki patch notes.
 - **Save & Mod Shield:** Automatically mirrors subscribed Workshop mods locally so surprise Steam updates never break a 200-hour save. Lock individual mods or update safely with automatic pre-update backups.
 - **Play Any Build You Want (24 Builds, 2013–2026):** Stay on Build 42.22.2, roll back to 42.21, or jump back to Build 41 or original 2013 Build 19 right inside the app with a live progress bar — your add-ons stay protected automatically.
 - **1-Click Profile Manager (Solo, Testing & Multiplayer):** Switch between completely isolated modpacks, saves, sandbox presets, and game builds in one click without manual folder copying.
