@@ -5,6 +5,11 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.8.1 (2026-11-25)
+- **Interactive Help Center Topic & Keyword Cloud:** Replaced the static keyword bar with a live interactive knowledge map right on the Help Center overview (25% live preview card with one-click **Maximize** into a full-screen explorer).
+- **Visual Connections Across Guides & Tutorials:** Color-coded nodes for **Keywords**, **Guides**, and **Tutorials** highlight connected topics on hover with floating summaries, smooth zoom/pan/drag, and a slide-in Connected Topics drawer when clicking any keyword — adapting live across all 4 color themes and 4 languages.
+- **Expanded Update Catalog Guide:** Added a dedicated Update Catalog & Update Lock guide block inside the Settings chapter with a direct **Open Update Catalog** jump button.
+
 ## v2.8.0 (2026-11-25)
 - **Full Inline Settings Inside the Main Window:** All Settings tabs now open cleanly right inside SpiffoLab with a Back button (no separate popup window needed), keeping the interface seamless across every tab and theme.
 - **Built-In App Update Catalog (`v2.5.2+`):** Browse available SpiffoLab releases directly inside the new **Updates** tab with readable release notes, version status badges, and one-click install or safe rollback to earlier versions (while preserving your latest Companion Mod files).

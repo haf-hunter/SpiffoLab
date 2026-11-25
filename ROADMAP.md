@@ -28,7 +28,7 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 
 ## Recently Completed
 
-- **v2.8.0:** Inline Settings integrated directly into the main window, built-in **App Update Catalog** (`v2.5.2+`) with safe version rollback, and **App Update Lock** (keeps update alerts visible while freezing your installed app version) across all 4 languages.
+- **v2.8.0 – v2.8.1:** Inline Settings integrated directly into the main window, built-in **App Update Catalog** (`v2.5.2+`) with safe version rollback, and **App Update Lock** (keeps update alerts visible while freezing your installed app version) across all 4 languages, plus the interactive Help Center **Topic & Keyword Cloud** (25% live overview map with full-screen explorer, color-coded nodes, and connected-topic drawer).
 
 - **v2.7.0 – v2.7.1:** All-new context-sensitive **Help Center** directly inside SpiffoLab (clean display across every tab plus optional pop-out window), live full-text search, quick-start cards, 10 feature guides including First-Time Setup & Settings, 6 interactive step-by-step tutorials with one-click app actions, zoomable screenshots, live theme & 4-language sync, and readable formatted In-App Update notes.
 
