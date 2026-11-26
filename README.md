@@ -38,9 +38,9 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 | :---: | :---: |
 | ![1-Click Tuning & Live Metrics](media/tuning_complete.png) | ![Mod-Radar Analytics](media/dashboard.png) |
 
-| Inline Settings, Themes & Update Catalog |
-| :---: |
-| ![Inline Settings & App Updates](media/settings_new.png) |
+| Make Your Own Lab: Custom Theme Studio & Settings | Free HSV Color Wheel & Contrast Check | Curated Fonts & Free 80%–150% Scaling |
+| :---: | :---: | :---: |
+| ![Custom Theme Studio & Settings](media/settings_new.png) | ![Free HSV Color Wheel](media/color_wheel.png) | ![Fonts & 80%-150% Scaling](media/font_settings.png) |
 
 *Want to explore every feature before installing? Try the live interactive preview directly in your browser at [spiffolab.com](https://spiffolab.com).*
 
