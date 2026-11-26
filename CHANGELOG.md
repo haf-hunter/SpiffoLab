@@ -5,6 +5,11 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.10.1 (2026-11-26)
+- **4-Zone Responsive Live Log Toolbar & Centered Badges:** Reorganized the Live Log toolbar into four clear zones (`Clear / INFO / WARN / ERROR / DEBUG`, `Pause`, `All Mods / Search Mod`, `Copy Sel. / Copy Filtered / Sidebar »`) with clean multi-row wrapping for 9:16 portrait and narrow windows, plus centered `WARN` / `ERROR` count badges without text overlap.
+- **Stable Proportions & Clean Layout Above `100%` UI Scale:** Eliminated extra spacing below the Live Metrics strip at higher scaling, kept thumbnails, header logo, and outer chrome margins steady regardless of font size, and fixed `Total Updates` badge wrapping on the `START` tab.
+- **Live Metric Card Borders & Help Center Polish:** Added subtle borders to Live Metric cards so individual cards stay crisply separated across all themes, removed stray Markdown syntax in Help Center articles, and added the new Theme Studio, Color Wheel, and Font Settings screenshots.
+
 ## v2.10.0 (2026-11-26) — Make Your Own Lab
 - **Custom Theme Studio (5 Independent Color Layers & HSV Color Wheel):** Customize **Background**, **Main Panels**, **Sub-Areas & Fields**, **Accent Color**, and **Text Color** independently. Switch cleanly between curated 4-dark / 4-light **Color Presets** and a native interactive **HSV Color Wheel** with brightness control, `#RRGGBB` hex input, live WCAG contrast checks (`AA` / `AAA`), one-click resets, and saveable custom theme presets.
 - **Curated Fonts, Free `80% – 150%` UI Scaling & System-Wide Theme Sync:** Pick your preferred UI font family, scale both the app chrome and embedded views freely in `5%` steps from `80%` to `150%` with a 5-layer live preview, enjoy matching Windows 11 title bars and borders on every window/dialog, and carry your theme everywhere (`Live Log`, `Mod-Radar`, `Metrics`, `Help Center`, and exported HTML diagnostic reports).
