@@ -5,6 +5,12 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.10.0 (2026-11-26) — Make Your Own Lab
+- **Custom Theme Studio (5 Independent Color Layers & HSV Color Wheel):** Customize **Background**, **Main Panels**, **Sub-Areas & Fields**, **Accent Color**, and **Text Color** independently. Switch cleanly between curated 4-dark / 4-light **Color Presets** and a native interactive **HSV Color Wheel** with brightness control, `#RRGGBB` hex input, live WCAG contrast checks (`AA` / `AAA`), one-click resets, and saveable custom theme presets.
+- **Curated Fonts, Free `80% – 150%` UI Scaling & System-Wide Theme Sync:** Pick your preferred UI font family, scale both the app chrome and embedded views freely in `5%` steps from `80%` to `150%` with a 5-layer live preview, enjoy matching Windows 11 title bars and borders on every window/dialog, and carry your theme everywhere (`Live Log`, `Mod-Radar`, `Metrics`, `Help Center`, and exported HTML diagnostic reports).
+- **Responsive Header & Active Highlight Across All Views:** The header automatically switches to a compact navigation dropdown on narrower screens or high zoom (`120%–150%`) without squeezing game controls, and the active accent highlight now covers `?` (**Help Center**) and the gear icon (**Settings**) too — alongside cleaner Settings sections with prominent **Maintenance, Updates & System** cards.
+- **Collapsible Live Log Sidebar & `MOD-RADAR` Rename:** Collapse **Mod Rank** and **Lag Spikes** individually (`▾`/`▸` with live counts) or hide the whole sidebar for full-width logs (`Sidebar »`). Renamed `Dashboard` to **`MOD-RADAR`** / **`Mod-Radar`** and updated Help Center chapters across all 4 languages (`EN`, `DE`, `ES`, `PT`).
+
 ## v2.9.0 (2026-11-25)
 - **New `START` Tab Command Center:** Dedicated launchpad left of `LAUNCHER` featuring a compact grunge-smoke hero banner (`Dark` & `Light` theme variants with theme-bound localized subtitles), configurable as your default startup tab in **Settings -> General**.
 - **`Continue Last Run` with 30s Benchmark Hardfacts & Mod Updates Link:** Automatically detects your most recent save across both your default Zomboid folder and isolated `-cachedir` profiles in a clean 50/50 split — large save thumbnail, profile/mode/version pills, total available mod updates link (opens Mod Manager filtered to `Updates`), automatic profile switching on launch, and persisted 30s benchmark metrics (`Avg FPS`, `1% / 0.1% Low`, `Logic Time`, `CPU / GPU`, `Zombie AI`, `Heap RAM`) linking straight to the `REPORT` tab.

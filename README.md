@@ -19,7 +19,7 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 | :--- | :--- |
 | Steam updates overwrite mods or game builds mid-save | **Auto-Freeze & 1-Click Rollback** — sit out forced updates as long as you want |
 | Digging through thousands of log lines after a crash | **Live Log & Instant Culprit Finder** — see which mod actually caused the crash |
-| Guessing which mod is tanking your FPS or causing stutter | **Live GPU/VRAM Monitor, Dashboard & 1-Click Tuning** — spot heavy mods and smooth out stutter |
+| Guessing which mod is tanking your FPS or causing stutter | **Live GPU/VRAM Monitor, Mod-Radar & 1-Click Tuning** — spot heavy mods and smooth out stutter |
 | Stuck with one setup and mandatory Steam client | **24 Game Builds, 1-Click Profiles & Offline Mode** — play any build (B19–42.22.2), even without Steam |
 
 ---
@@ -34,9 +34,9 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 | :---: | :---: |
 | ![Mod Manager & Update Locks](media/mod_manager_overview.png) | ![24 Game Builds & Downloader](media/builds_download.png) |
 
-| 1-Click Performance Tuning & Live GPU / VRAM | Real-Time Mod Performance Dashboard |
+| 1-Click Performance Tuning & Live GPU / VRAM | Real-Time Mod-Radar Performance Analytics |
 | :---: | :---: |
-| ![1-Click Tuning & Live Metrics](media/tuning_complete.png) | ![Mod Performance Dashboard](media/dashboard.png) |
+| ![1-Click Tuning & Live Metrics](media/tuning_complete.png) | ![Mod-Radar Analytics](media/dashboard.png) |
 
 | Inline Settings, Themes & Update Catalog |
 | :---: |
@@ -58,10 +58,10 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 ### 2. Tune Performance, Spot Lagging Mods & Fix Crashes
 - **1-Click Performance Tuning (`TUNING` Tab):** Choose *Default (Off)*, *Balanced*, or *Low-Stutter* automatically matched to your PC memory, get plain-English graphics tips, switch Java versions per profile, and stay protected from conflicts with external optimizers.
 - **Live Hardware Monitor (FPS, GPU & VRAM):** Track real-time FPS (Avg, 1% & 0.1% Low), CPU, real graphics card load, dedicated VRAM, memory, and Zombie AI — with clean automatic reset whenever the game closes.
-- **Mod Performance Dashboard & Live Log:** Rank every active mod by frame cost, worst lag spike, and errors, and separate the true crash culprit from innocent follow-up errors in real time.
-- **30-Second Benchmark & Shareable Report:** Run a guided 30-second in-game benchmark, see whether drops come from mods, Zombie AI, chunk loading, or collisions, and export clean reports for Discord or bug tracking.
+- **Mod-Radar & Collapsible Live Log:** Rank every active mod by frame cost, worst lag spike, and errors, collapse Mod Rank / Lag Spikes or the sidebar for full-width log reading, and separate true crash culprits from innocent follow-up errors in real time.
+- **30-Second Benchmark & Shareable Report:** Run a guided 30-second in-game benchmark, see whether drops come from mods, Zombie AI, chunk loading, or collisions, and export theme-matched HTML reports for Discord or bug tracking.
 - **Built-In Help Center & Interactive Tutorials:** Open contextual guides inline or in a pop-out window with live search, quick-start cards, 10 feature chapters, and 6 step-by-step tutorials with one-click app actions across 4 languages.
-- **Inline Settings, App Update Catalog & Update Lock:** Configure themes, languages, and zoom directly inside the main window, browse or roll back signed SpiffoLab releases, and optionally freeze your app version just like your mods and game builds.
+- **Make Your Own Lab (Custom Theme Studio, 80%–150% Scale & App Update Catalog):** Tailor **5 independent color layers** via curated dark/light swatches or the native **HSV Color Wheel**, save custom presets, choose fonts and free **`80%–150%` UI scaling** with matching Windows 11 window chrome, browse or roll back signed SpiffoLab releases, and freeze your app version anytime.
 
 ---
 

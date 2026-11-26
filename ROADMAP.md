@@ -7,21 +7,18 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 
 ## Planned & In Progress
 
-### 1. Custom Theme Editor & Visual Personalization
-- Customize individual color areas to match your style — including background, panels/cards, interactive buttons & accents, and text colors — via curated palettes or custom hex colors with built-in contrast checks and 1-click reset.
-- Choose your preferred font family and UI text size with live preview across all views, live charts, help pages, and exported diagnostic reports.
-- Matching window title bars and borders across all app windows and dialogs so light, dark, and custom themes look seamless everywhere.
-
-### 2. Enhanced In-Game Crash Protection & Reporting
+### 1. Enhanced In-Game Crash Protection & Reporting
 - Deeper integration with ZombieBuddy crash protection so prevented in-game crashes are surfaced clearly in the Live Log and Diagnostic Report.
 
-### 3. Dynamic "For You" Discovery & Full Workshop Search
+### 2. Dynamic "For You" Discovery & Full Workshop Search
 - Expand the "For You" mod showcase from a fixed 6-mod grid to a responsive layout that fills your available screen space cleanly.
 - Upgrade free-text mod search to query the entire Steam Workshop live — not just your locally downloaded mod pool.
 
 ---
 
 ## Recently Completed
+
+- **v2.10.0 — Make Your Own Lab:** Full **Custom Theme Studio** inside `Settings -> General` with **5 independent color layers** (Background, Main Panels, Sub-Areas & Fields, Accent, Text), toggleable **Color Presets** (4+4 dark/light swatches) vs. interactive **HSV Color Wheel** + brightness slider, custom `#RRGGBB` hex inputs, live WCAG contrast checks, saveable custom themes, curated fonts, free **`80%–150%` scaling** (`5%` steps), 5-layer live preview, matching Windows 11 window chrome, responsive compact header dropdown, active accent borders on Help/Settings, collapsible Live Log sidebar (`Mod Rank` & `Lag Spikes`), **`MOD-RADAR`** rename, and central CSS tokens synced across all views and exported HTML reports.
 
 - **v2.9.0:** All-new **`START` Tab** command center left of `LAUNCHER` with grunge-smoke hero banner, **Continue Last Run** across isolated profiles with 50/50 30s benchmark hardfacts linked to `REPORT` and direct total mod-updates jump into Mod Manager, 8 Quick Actions, 12 curated tips with screenshots, anonymous live Project Zomboid Steam News & Wiki patch notes fetcher, configurable default startup tab & live news toggle, plus refreshed Help Center guides and screenshots across all 4 languages.
 
