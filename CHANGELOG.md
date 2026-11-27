@@ -5,6 +5,9 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.10.2 (2026-11-27)
+- **Critical Build 42 Version Detection Fix (`25.0.5` -> `42.22.2`):** Fixed a critical bug on fresh installations where SpiffoLab could read Project Zomboid's bundled Java 25 version (`25.0.5`) from `console.txt` instead of the actual game build (`42.22.2`), causing Build 42 STABLE to be flagged as an outdated retro build and blocking automatic Telemetry/ZombieBuddy setup. SpiffoLab now strictly matches the real game version line, prioritizes known Steam build manifests directly, and automatically repairs previously misdetected setups.
+
 ## v2.10.1 (2026-11-26)
 - **4-Zone Responsive Live Log Toolbar & Centered Badges:** Reorganized the Live Log toolbar into four clear zones (`Clear / INFO / WARN / ERROR / DEBUG`, `Pause`, `All Mods / Search Mod`, `Copy Sel. / Copy Filtered / Sidebar »`) with clean multi-row wrapping for 9:16 portrait and narrow windows, plus centered `WARN` / `ERROR` count badges without text overlap.
 - **Stable Proportions & Clean Layout Above `100%` UI Scale:** Eliminated extra spacing below the Live Metrics strip at higher scaling, kept thumbnails, header logo, and outer chrome margins steady regardless of font size, and fixed `Total Updates` badge wrapping on the `START` tab.
