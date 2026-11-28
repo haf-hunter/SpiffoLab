@@ -17,6 +17,10 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 ### 3. Per-Profile Optimizer Overlays & Version Switcher
 - Planned support for switching lightweight third-party optimization overlays and AOT caches cleanly per profile without leaving mixed files behind during game build switches.
 
+### 4. Smarter Diagnostic Reports & Share Profiles
+- Redesign the `REPORT` view and exported reports into a crisp summary with expandable detail sections instead of one long wall of data, merging related insights (benchmark, bottleneck cause, engine advice, and mod impact) into cleaner visual cards.
+- Add purpose-built share profiles — such as a compact **Forum / Performance Comparison** view and a focused **Mod Developer / Bug Report** bundle covering selected mods, interactions, and crash traces.
+
 ---
 
 ## Recently Completed
