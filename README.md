@@ -56,7 +56,7 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 - **Play With or Without Steam (`-nosteam`) & Workshop Discovery:** Launch via Steam or offline without Steam, and browse curated Build 42 Workshop picks right inside the launcher.
 
 ### 2. Tune Performance, Spot Lagging Mods & Fix Crashes
-- **1-Click Performance Tuning (`TUNING` Tab):** Choose *Default (Off)*, *Balanced*, or *Low-Stutter* automatically matched to your PC memory, get plain-English graphics tips, switch Java versions per profile, and stay protected from conflicts with external optimizers.
+- **1-Click Performance Tuning (`TUNING` & Profile Wizard):** Choose *Default (Off)*, *Balanced*, or *Low-Stutter* automatically matched to your PC memory, configure advanced JVM options right during profile creation, get plain-English `options.ini` tips, switch Java runtimes per profile, and keep or exclude external JVM optimizers cleanly per profile.
 - **Live Hardware Monitor (FPS, GPU & VRAM):** Track real-time FPS (Avg, 1% & 0.1% Low), CPU, real graphics card load, dedicated VRAM, memory, and Zombie AI — with clean automatic reset whenever the game closes.
 - **Mod-Radar & Collapsible Live Log:** Rank every active mod by frame cost, worst lag spike, and errors, collapse Mod Rank / Lag Spikes or the sidebar for full-width log reading, and separate true crash culprits from innocent follow-up errors in real time.
 - **30-Second Benchmark & Shareable Report:** Run a guided 30-second in-game benchmark, see whether drops come from mods, Zombie AI, chunk loading, or collisions, and export theme-matched HTML reports for Discord or bug tracking.
