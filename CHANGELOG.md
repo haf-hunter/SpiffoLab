@@ -5,6 +5,12 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.12.0 (2026-11-28)
+- **Per-Profile Optimizer Overlays (`PZ_Optimization` / `pzopt`) & Clean Build Switching:** Save `PZ_Optimization` (`pzopt`) setups as lightweight snapshots bound cleanly to individual profiles (`Vanilla` <-> `pzopt`), keep AOT caches separated per profile, automatically back up overwritten game files (`vanilla_originals`), and switch game builds (`42.22.2` <-> `42.21` <-> `B41`) with zero leftover files.
+- **Built-In `PZ_Optimization` Release Browser with 5-Step Security Gate:** Browse and download compatible `pzopt` class archives straight from GitHub (`xD3I/PZ_Optimization`) inside the `TUNING` tab — SpiffoLab never executes third-party scripts and verifies SHA-256 checksums, file types, optional Windows Defender scan, and change previews before importing.
+- **Faster Tuning Access & Smarter Profile Wizard:** Click the active Java runtime or `Overlay:` chip in the Launcher header to jump straight to the highlighted target card in `TUNING`, browse locally stored builds highlighted in green during profile creation, pick `Vanilla` or a compatible overlay in Step 3, and freeze only active mods in isolated profiles.
+- **Dedicated `PZ_Optimization` Help Center Tutorial & Updated Screenshots:** Step-by-step Help Center walkthrough covering safe `pzopt` installation, recommended tuning settings alongside `pzopt`, and per-profile switching, plus refreshed `TUNING` and Live Metrics screenshots across all 4 languages.
+
 ## v2.11.0 (2026-11-28)
 - **Redesigned Profile Manager, Workshop Packages & Mod Protection:** Cleaner launcher header with a prominent **+ New Profile** button, inline collapsible multi-mod Workshop packages with automatic poster inheritance and cleaner descriptions, single-card accordion browsing, and instant mod-list synchronization whenever you switch profiles.
 - **Smart Conflict Lock & Clickable Mod Links:** Mods blocked by an active incompatible mod now lock cleanly to prevent crash-prone combinations, while **Dependencies** and **Incompatible With** entries highlight active blockers vs. inactive mods and jump straight to the target mod on click.

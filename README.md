@@ -34,9 +34,13 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 | :---: | :---: |
 | ![Mod Manager & Update Locks](media/mod_manager_overview.png) | ![24 Game Builds & Downloader](media/builds_download.png) |
 
-| 1-Click Performance Tuning & Live GPU / VRAM | Real-Time Mod-Radar Performance Analytics |
-| :---: | :---: |
-| ![1-Click Tuning & Live Metrics](media/tuning_complete.png) | ![Mod-Radar Analytics](media/dashboard.png) |
+| 1-Click Performance Tuning, Overlays & Live GPU/VRAM | Verified `PZ_Optimization` Browser & Security Check | Real-Time Mod-Radar Analytics |
+| :---: | :---: | :---: |
+| ![1-Click Tuning & Overlays](media/pzopt2_tuning.png) | ![PZ_Optimization Browser & Security Gate](media/pzopt3_browser.png) | ![Mod-Radar Analytics](media/dashboard.png) |
+
+| Live Hardware & Engine Metrics Strip | Overlay Import Security & File Preview | Profile Wizard Tuning & Overlays |
+| :---: | :---: | :---: |
+| ![Live Metrics Strip](media/live_metrics.png) | ![Overlay Security Preview](media/pzopt4_security.png) | ![Profile Wizard Overlays](media/pzopt1_profiler.png) |
 
 | Make Your Own Lab: Custom Theme Studio & Settings | Free HSV Color Wheel & Contrast Check | Curated Fonts & Free 80%–150% Scaling |
 | :---: | :---: | :---: |
@@ -55,8 +59,9 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 - **1-Click Profile Manager, Smart Mod Packages & Conflict Shield:** Switch between isolated modpacks, saves, sandbox presets, and game builds with instant mod-list sync, browse multi-mod Workshop packages inline, jump straight to dependencies or conflicts via clickable links, and prevent broken incompatible mod setups automatically.
 - **Play With or Without Steam (`-nosteam`) & Workshop Discovery:** Launch via Steam or offline without Steam, and browse curated Build 42 Workshop picks right inside the launcher.
 
-### 2. Tune Performance, Spot Lagging Mods & Fix Crashes
-- **1-Click Performance Tuning (`TUNING` & Profile Wizard):** Choose *Default (Off)*, *Balanced*, or *Low-Stutter* automatically matched to your PC memory, configure advanced JVM options right during profile creation, get plain-English `options.ini` tips, switch Java runtimes per profile, and keep or exclude external JVM optimizers cleanly per profile.
+### 2. Tune Performance, Switch `PZ_Optimization` Overlays, Spot Lag & Fix Crashes
+- **1-Click Performance Tuning (`TUNING` & Profile Wizard):** Choose *Default (Off)*, *Balanced*, or *Low-Stutter* automatically matched to your PC memory, configure advanced JVM options right during profile creation, get plain-English `options.ini` tips, switch Java runtimes per profile, and jump straight from the Launcher header to highlighted tuning cards.
+- **Per-Profile `PZ_Optimization` (`pzopt`) Overlays & Verified GitHub Browser:** Browse compatible `xD3I/PZ_Optimization` releases inside SpiffoLab, import them through a 5-step security check (SHA-256 verification, strict file filtering, optional Windows Defender scan, zero third-party script execution), switch between `Vanilla` and `pzopt` per profile with automatic backups, and change game builds with zero leftover files.
 - **Live Hardware Monitor (FPS, GPU & VRAM):** Track real-time FPS (Avg, 1% & 0.1% Low), CPU, real graphics card load, dedicated VRAM, memory, and Zombie AI — with clean automatic reset whenever the game closes.
 - **Mod-Radar & Collapsible Live Log:** Rank every active mod by frame cost, worst lag spike, and errors, collapse Mod Rank / Lag Spikes or the sidebar for full-width log reading, and separate true crash culprits from innocent follow-up errors in real time.
 - **30-Second Benchmark & Shareable Report:** Run a guided 30-second in-game benchmark, see whether drops come from mods, Zombie AI, chunk loading, or collisions, and export theme-matched HTML reports for Discord or bug tracking.

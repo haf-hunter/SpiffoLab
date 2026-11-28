@@ -14,16 +14,15 @@ Have a feature request or bug report? Open an issue anytime in our [Issue Tracke
 - Expand the "For You" mod showcase from a fixed 6-mod grid to a responsive layout that fills your available screen space cleanly.
 - Upgrade free-text mod search to query the entire Steam Workshop live — not just your locally downloaded mod pool.
 
-### 3. Per-Profile Optimizer Overlays & Version Switcher
-- Planned support for switching lightweight third-party optimization overlays and AOT caches cleanly per profile without leaving mixed files behind during game build switches.
-
-### 4. Smarter Diagnostic Reports & Share Profiles
+### 3. Smarter Diagnostic Reports & Share Profiles
 - Redesign the `REPORT` view and exported reports into a crisp summary with expandable detail sections instead of one long wall of data, merging related insights (benchmark, bottleneck cause, engine advice, and mod impact) into cleaner visual cards.
 - Add purpose-built share profiles — such as a compact **Forum / Performance Comparison** view and a focused **Mod Developer / Bug Report** bundle covering selected mods, interactions, and crash traces.
 
 ---
 
 ## Recently Completed
+
+- **v2.12.0 — Per-Profile `PZ_Optimization` (`pzopt`) Overlays & Verified Release Browser:** Lightweight per-profile optimizer snapshots (`Vanilla` <-> `pzopt`) with automatic original file backups, isolated AOT caches, clean cross-build switching without leftovers, built-in `xD3I/PZ_Optimization` GitHub release browser with a 5-step security check (no external script execution), Launcher header quick-jump highlights, dedicated Help Center tutorial, and refreshed screenshots.
 
 - **v2.11.0 — Profile Manager Overhaul, Smart Mod Links & Metric Gradients:** Cleaner **Profile Manager** with prominent **+ New Profile**, collapsible Workshop mod packages, single-card accordion view, hard conflict activation lock, color-coded clickable dependency/conflict links, instant mod refresh on profile switch, silent pre-launch Java cleanup, full JVM tuning & external optimizer opt-out right inside the Profile Wizard, and customizable **2-color (`Low` -> `High`) Live-Metrics chart gradients** in the Custom Theme Studio.
 
