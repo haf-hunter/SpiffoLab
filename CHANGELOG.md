@@ -5,6 +5,12 @@ For downloads and installation instructions, see [README.md](README.md). For upc
 
 ---
 
+## v2.11.0 (2026-11-28)
+- **Redesigned Profile Manager, Workshop Packages & Mod Protection:** Cleaner launcher header with a prominent **+ New Profile** button, inline collapsible multi-mod Workshop packages with automatic poster inheritance and cleaner descriptions, single-card accordion browsing, and instant mod-list synchronization whenever you switch profiles.
+- **Smart Conflict Lock & Clickable Mod Links:** Mods blocked by an active incompatible mod now lock cleanly to prevent crash-prone combinations, while **Dependencies** and **Incompatible With** entries highlight active blockers vs. inactive mods and jump straight to the target mod on click.
+- **Full Performance Tuning in the Profile Wizard & Per-Profile Optimizer Opt-Out:** Pick 1-click tuning presets, configure advanced memory/GC options directly when creating a profile, and optionally exclude external JVM optimizers cleanly per profile inside both the wizard and the **TUNING** tab — plus silent background Java cleanup before game launch.
+- **Custom 2-Color Live-Metrics Chart Gradients:** Customize a smooth `Low` -> `High` color gradient across all 14 Live-Metrics charts in one compact Custom Theme Studio row — featuring 6 quick presets, hex inputs, live preview, and 1-click Color Wheel access.
+
 ## v2.10.2 (2026-11-27)
 - **Critical Build 42 Version Detection Fix (`25.0.5` -> `42.22.2`):** Fixed a critical bug on fresh installations where SpiffoLab could read Project Zomboid's bundled Java 25 version (`25.0.5`) from `console.txt` instead of the actual game build (`42.22.2`), causing Build 42 STABLE to be flagged as an outdated retro build and blocking automatic Telemetry/ZombieBuddy setup. SpiffoLab now strictly matches the real game version line, prioritizes known Steam build manifests directly, and automatically repairs previously misdetected setups.
 

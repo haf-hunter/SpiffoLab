@@ -52,7 +52,7 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 - **`START` Tab Command Center:** Launch straight into your most recent save with thumbnail preview, automatic profile switching, total available mod-updates link, side-by-side 30s benchmark hardfacts (`Avg FPS`, `1% / 0.1% Low`, `Logic Time`, `CPU / GPU`, `Zombie AI`, `Heap RAM`), 8 Quick Actions, 12 rotating tips, and live Project Zomboid Steam news & Wiki patch notes.
 - **Save & Mod Shield:** Automatically mirrors subscribed Workshop mods locally so surprise Steam updates never break a 200-hour save. Lock individual mods or update safely with automatic pre-update backups.
 - **Play Any Build You Want (24 Builds, 2013–2026):** Stay on Build 42.22.2, roll back to 42.21, or jump back to Build 41 or original 2013 Build 19 right inside the app with a live progress bar — your add-ons stay protected automatically.
-- **1-Click Profile Manager (Solo, Testing & Multiplayer):** Switch between completely isolated modpacks, saves, sandbox presets, and game builds in one click without manual folder copying.
+- **1-Click Profile Manager, Smart Mod Packages & Conflict Shield:** Switch between isolated modpacks, saves, sandbox presets, and game builds with instant mod-list sync, browse multi-mod Workshop packages inline, jump straight to dependencies or conflicts via clickable links, and prevent broken incompatible mod setups automatically.
 - **Play With or Without Steam (`-nosteam`) & Workshop Discovery:** Launch via Steam or offline without Steam, and browse curated Build 42 Workshop picks right inside the launcher.
 
 ### 2. Tune Performance, Spot Lagging Mods & Fix Crashes
@@ -61,7 +61,7 @@ SpiffoLab CC puts your entire Project Zomboid setup under one roof: protect long
 - **Mod-Radar & Collapsible Live Log:** Rank every active mod by frame cost, worst lag spike, and errors, collapse Mod Rank / Lag Spikes or the sidebar for full-width log reading, and separate true crash culprits from innocent follow-up errors in real time.
 - **30-Second Benchmark & Shareable Report:** Run a guided 30-second in-game benchmark, see whether drops come from mods, Zombie AI, chunk loading, or collisions, and export theme-matched HTML reports for Discord or bug tracking.
 - **Built-In Help Center & Interactive Tutorials:** Open contextual guides inline or in a pop-out window with live search, quick-start cards, 10 feature chapters, and 6 step-by-step tutorials with one-click app actions across 4 languages.
-- **Make Your Own Lab (Custom Theme Studio, 80%–150% Scale & App Update Catalog):** Tailor **5 independent color layers** via curated dark/light swatches or the native **HSV Color Wheel**, save custom presets, choose fonts and free **`80%–150%` UI scaling** with matching Windows 11 window chrome, browse or roll back signed SpiffoLab releases, and freeze your app version anytime.
+- **Make Your Own Lab (Custom Theme Studio, Metric Gradients, 80%–150% Scale & App Update Catalog):** Tailor **5 independent UI color layers** plus custom **2-color (`Low` -> `High`) Live-Metrics chart gradients** via curated presets or the native **HSV Color Wheel**, save custom themes, choose fonts and free **`80%–150%` UI scaling** with matching Windows 11 window chrome, browse or roll back signed SpiffoLab releases, and freeze your app version anytime.
 
 ---
 
